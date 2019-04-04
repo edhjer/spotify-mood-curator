@@ -14,3 +14,6 @@ Before finding that song, we need to discover which songs evoke which emotions.
 - ### 2. Data Exploration
 - ### 3. Machine Learning
 - ### 4. Final Presentation (Given in Class)
+
+## Further Research
+- ### Train a model with lyrics and audio features. For each user, the model can give appropriate weight to both lyrics and audio. 
